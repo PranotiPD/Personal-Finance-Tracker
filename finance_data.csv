@@ -1,0 +1,24 @@
+date,amount,category,description
+20-07-2024,125.65,Income,Salary
+19-07-2024,130.0,Income,Freelacing
+22-07-2024,200.0,Income,salary
+01-01-2024,250,Expense,Transport
+02-01-2024,282,Expense,Utilities
+03-01-2024,946,Income,Salary
+04-01-2024,818,Expense,Transport
+05-01-2024,654,Income,Sale of item
+06-01-2024,569,Expense,Entertainment
+07-01-2024,708,Expense,Healthcare
+08-01-2024,352,Income,Sale of item
+09-01-2024,337,Expense,Dining
+10-01-2024,410,Expense,Healthcare
+11-01-2024,215,Expense,Transport
+12-01-2024,653,Expense,Rent
+13-01-2024,114,Income,Gift
+14-01-2024,497,Income,Freelance work
+15-01-2024,375,Expense,Entertainment
+16-01-2024,858,Income,Gift
+17-01-2024,689,Expense,Entertainment
+18-01-2024,757,Income,Interest income
+19-01-2024,995,Expense,Insurance
+20-01-2024,930,Income,Gift
